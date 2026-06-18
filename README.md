@@ -97,5 +97,5 @@ With ClickHelp, teams can:
 Learn more about ClickHelp and start building better documentation:
 
 - Website: https://clickhelp.com  
-- Documentation: https://clickhelp.com/docs  
-- Contact: https://clickhelp.com/contact  
+- Documentation: https://docs.clickhelp.com/home/en-us/
+- Contact: https://clickhelp.com/support/  
