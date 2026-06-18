@@ -34,6 +34,15 @@ ClickHelp solves this by centralizing documentation creation, management, and pu
 ### 📝 Powerful authoring experience  
 Create structured, professional documentation with an intuitive editing environment designed for technical content.
 
+### 🤖 AI-powered assistance  
+Accelerate documentation creation with AI support for drafting, rewriting, summarizing, and improving technical content. Help teams maintain clarity, consistency, and tone across large documentation sets.
+
+### 🔗 MCP (Model Context Protocol) integration  
+Connect ClickHelp documentation to AI systems and tools through MCP, enabling structured access to knowledge, context-aware retrieval, and seamless integration with AI-driven workflows.
+
+### 🤖 AnswerGenius bot  
+Provide users with instant answers from your documentation through an AI-powered bot that understands content context, reduces support load, and improves self-service experience.
+
 ### 🔄 Content reuse & single sourcing  
 Reuse content across multiple documents to maintain consistency and reduce duplication.
 
